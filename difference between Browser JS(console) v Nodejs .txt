@@ -1,0 +1,24 @@
+1).Difference between Node.js & Browser Javascript(Console):-
+	a)-Node.js --> NodeJS is a cross-platform and opensource Javascript runtime
+environment that allows the javascript to be run on the server-side.NodeJS allows Javascript code
+to run outside the browser.NodeJS comes with a lot of modules and mostly used in web development.
+	(i) - NodeJs is a javascript runtime environment.
+	(ii) - We can run javascript outside the browser with the help of NodeJS.
+	(iii) - It is mostly used on the server-side.
+	(iv) - Nodejs does not have capability to add HTML tags.
+	(v) - V8 is the javascript engine inside of node.js that parses and runs javascript.
+	(vi) - Nodejs is used in server-side development.
+	(vii) - Some of the Nodejs modules are Lodash, express etc. These modules are to be imported from npm.
+	(viii) - Nodejs is written in C,C++ and javascript.
+	
+	b)-Browser JS :- JS is scripting language. It is mostly abbreviated as JS. It can be said that Javascript is the
+updated version of the ECMA script. Javascript is a highly - level programming language that uses the concept of
+Oops but it is based on prototype inheritance.
+	(i) - Javascript is a programming language that is used for writing scripts on the website.
+	(ii) - Javascript can only be run in the browsers.
+	(iii) - It is basically used on the client-side.
+	(iv) - Javascript is capable enough to add HTML and play with the DOM.
+	(v) - Javascript can run in any browser engine as like JS core in safari and Spidermonkey in Firefox.
+	(vi) - Some of the javascript frameworks are RamdaJS, TypedJS, etc.
+	(vii) - It is the upgraded version of ECMS script that uses Chrome's V8 engine written in C++.
+
